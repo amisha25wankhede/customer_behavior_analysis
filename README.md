@@ -58,12 +58,11 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
       - Create project report
    
       - Build presentation deck using Gamma AI
-  
-7. **Follow along with the YouTube video for full walkthrough. 👨‍💼**
 
 
+💼 LinkedIn: [Amisha Wankhede](https://www.linkedin.com/feed/)
 
-💼 LinkedIn: [Amlan Mohanty](https://www.linkedin.com/in/amlanmohanty1/)
+
 - Let’s connect professionally and grow your data career
 
 
