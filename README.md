@@ -23,7 +23,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 1. **Clone the repository**
    ```bash
-  https://github.com/amisha25wankhede/customer_behavior_analysis/tree/main
+  git clone https://github.com/amisha25wankhede/customer_behavior_analysis/tree/main
    ```
 2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
 
