@@ -63,8 +63,6 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 💼 LinkedIn: [Amisha Wankhede](https://www.linkedin.com/feed/)
 
 
-- Let’s connect professionally and grow your data career
-
 
 ## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
 
